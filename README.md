@@ -19,3 +19,6 @@ The design has been tested and improved for:
 - Tablets
 - Mobile devices
 Ensuring a consistent and professional user experience across platforms.
+
+## Screenshot
+![screenshot](https://github.com/mohammadzali2005/forked-Landing-page/blob/main/Thumbnail.png)
